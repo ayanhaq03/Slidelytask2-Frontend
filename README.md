@@ -8,14 +8,23 @@ INSTALLATION
 SHORTCUT KEY 
 
 VIEW SUBMISSION - Ctrl+V
+
 CREATE SUBMISSION - Ctrl + N
+
 NEXT - Ctrl + N
+
 PREVIOUS - Ctrl + P
+
 SUBMIT - Ctrl + S
 
+
+
 STOPWATCH -  
+
 START - Ctrl + J
+
 RESUME - Ctrl + K
+
 STOP -  Ctrl + L
 
 
